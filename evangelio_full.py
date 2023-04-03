@@ -10,8 +10,6 @@ import time
 import os
 from os import environ
 
-
-
 def job():
     locale.setlocale(locale.LC_TIME, 'es_ES.UTF-8')
 

@@ -1,0 +1,1 @@
+worker: python evangelio_full.py
